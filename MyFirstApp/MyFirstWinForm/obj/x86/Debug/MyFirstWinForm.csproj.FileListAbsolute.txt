@@ -1,0 +1,7 @@
+c:\users\16707\documents\visual studio 2010\Projects\MyFirstApp\MyFirstWinForm\bin\Debug\MyFirstWinForm.exe
+c:\users\16707\documents\visual studio 2010\Projects\MyFirstApp\MyFirstWinForm\bin\Debug\MyFirstWinForm.pdb
+c:\users\16707\documents\visual studio 2010\Projects\MyFirstApp\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.Properties.Resources.resources
+c:\users\16707\documents\visual studio 2010\Projects\MyFirstApp\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.csproj.GenerateResource.Cache
+c:\users\16707\documents\visual studio 2010\Projects\MyFirstApp\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.exe
+c:\users\16707\documents\visual studio 2010\Projects\MyFirstApp\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.pdb
+C:\Users\16707\Documents\Visual Studio 2010\Projects\MyFirstApp\MyFirstWinForm\obj\x86\Debug\MyFirstWinForm.Form1.resources
