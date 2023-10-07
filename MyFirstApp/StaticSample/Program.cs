@@ -13,6 +13,7 @@ namespace StaticSample
             Form form = new Form();
             form.Text = "hello";//访问实例属性
             form.ShowDialog();//访问实例的方法
+
         }
     }
 }
