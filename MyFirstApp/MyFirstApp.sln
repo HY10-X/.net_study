@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample", "Delegate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversationExample", "ConversationExample\ConversationExample.csproj", "{CE9BD1DB-23F8-4C92-8C8A-77475B318D61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionExamp", "ExpressionExamp\ExpressionExamp.csproj", "{3AC3C0D5-9E78-4928-86CF-457332E9FE70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -263,6 +265,16 @@ Global
 		{CE9BD1DB-23F8-4C92-8C8A-77475B318D61}.Release|Mixed Platforms.Build.0 = Release|x86
 		{CE9BD1DB-23F8-4C92-8C8A-77475B318D61}.Release|x86.ActiveCfg = Release|x86
 		{CE9BD1DB-23F8-4C92-8C8A-77475B318D61}.Release|x86.Build.0 = Release|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Debug|x86.ActiveCfg = Debug|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Debug|x86.Build.0 = Debug|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|Any CPU.ActiveCfg = Release|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|Mixed Platforms.Build.0 = Release|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|x86.ActiveCfg = Release|x86
+		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
