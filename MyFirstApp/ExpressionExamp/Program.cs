@@ -45,6 +45,10 @@ namespace ExpressionExamp
                 Console.WriteLine("not number");
             }
 
+          
+
+
+
         }
         //sender:发送者
         static void myForm_Load(object sender, EventArgs e)
@@ -56,5 +60,19 @@ namespace ExpressionExamp
             }
             form.Text = "newwwwwwww";
       }
+    class Calculator{
+        public int Add(string arg1,string arg2){
+            int a=0;
+            int b=0;
+            try{
+                a=
+            }
+
+
+        }
+
+
+
+    }
     }
 }
