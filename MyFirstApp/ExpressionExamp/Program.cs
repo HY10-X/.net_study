@@ -44,10 +44,17 @@ namespace ExpressionExamp
             {
                 Console.WriteLine("not number");
             }
-
-          
-
-
+            //异常处理
+            Calculator c=new Calculator();
+            int r = 0;
+            try{
+                r=c.Add("99","90");
+            }
+            //调用函数的程序也可以通过throw抛出异常，谁调用谁捕获
+            catch(OverflowException oe){
+                System.Console.WriteLine("oe.Message");
+            }
+            
 
         }
         //sender:发送者
@@ -64,11 +71,34 @@ namespace ExpressionExamp
         public int Add(string arg1,string arg2){
             int a=0;
             int b=0;
+            bool hasError=false;
+            //捕获各种异常，并打印异常信息
             try{
-                a=
+                a= int.Parse(arg1);
+                b= int.Parse(arg2);
             }
-
-
+        catch(ArgumentNullException ane){
+            System.Console.WriteLine(ane.Message);
+            hasError=true;
+        }
+        catch(FormatException(fe)){
+            System.Console.WriteLine(fe.Message);
+            hasError=true;
+        }
+        catch(OverflowException(oe)){
+            //System.Console.WriteLine(oe.Message);
+            //可以抛出让主程序捕获异常
+            throw oe;
+            //throw的使用比较灵活，可以简写为throw不用定义异常对象
+            //也可以识别到抛出的异常
+            hasError=true;
+        }
+        finally{//释放系统资源，无论是否发生异常
+                //编写程序log,告诉发生异常写在if里
+            if(hasError){
+                System.Console.WriteLine("Execution has happened");
+            }
+        }
         }
 
 
