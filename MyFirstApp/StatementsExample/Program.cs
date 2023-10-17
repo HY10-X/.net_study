@@ -43,6 +43,62 @@ namespace StatementsExample
             //变量的作用域，y1只在块语句之内起作用
             Console.WriteLine(y1);
 
+
+
+
+///////////////////////////////////////////////////////////////////////
+///循环语句测试
+        int score=0;
+        bool canContinue=true;
+        /*while循环
+        while (canContinue)
+        {
+            System.Console.WriteLine("input x");
+            string str1=Console.ReadLine();
+            int x=int.Parse(str1);
+            System.Console.WriteLine("input y");
+            string str2=Console.ReadLine();
+            int y=int.Parse(str2);
+            int sum =x+y;
+            if (sum==100)
+            {
+                score++;
+                //{}代表后面填入的变量
+                System.Console.WriteLine("correct:{0}={1}+{2}",x,y,sum);
+            }
+            else
+            {
+                System.Console.WriteLine("error:{0}={1}+{2}",x,y,sum);
+                canContinue=false;
+            }
+        }
+        */
+        //do循环
+        int sum=0;
+        do{
+            System.Console.WriteLine("input x");
+            string str1=Console.ReadLine();
+            int x=int.Parse(str1);
+            System.Console.WriteLine("input y");
+            string str2=Console.ReadLine();
+            int y=int.Parse(str2);
+            sum =x+y;
+            if (sum==100)
+            {
+                score++;
+                //{}代表后面填入的变量
+                System.Console.WriteLine("correct:{0}={1}+{2}",x,y,sum);
+            }
+            else
+            {
+                System.Console.WriteLine("error:{0}={1}+{2}",x,y,sum);
+                canContinue=false;
+            }
+        }
+        while(canContinue);
+
+        System.Console.WriteLine("score is {0}",score);
+        System.Console.WriteLine("game over");
         }
     }
 }
