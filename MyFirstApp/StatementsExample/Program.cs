@@ -95,7 +95,7 @@ namespace StatementsExample
                 canContinue=false;
             }
         }
-        while(canContinue);
+        while(sum==100);
 
         System.Console.WriteLine("score is {0}",score);
         System.Console.WriteLine("game over");
