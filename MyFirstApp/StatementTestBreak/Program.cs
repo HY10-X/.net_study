@@ -1,4 +1,5 @@
-﻿namespace StatementTestBreak
+﻿using System.Collections.Generic;
+namespace StatementTestBreak
 {
     //testgitnew
     internal class Program
@@ -69,6 +70,28 @@
             for (int counter2 = 0; counter2 < 10; counter2++)
             {
                 Console.WriteLine("helloworld");
+            }
+            //9*9乘法
+            for (int a = 1; a <= 9; a++)
+            {
+                for (int b = 1; b <= 9; b++)
+                {
+                    Console.WriteLine("{0}*{1}={2}\t", a, b, a * b);
+                    if (b > a)
+                    {
+                        break;
+                    }
+                    
+                }
+
+            }
+            //foreach,集合遍历循环
+            int[] intArray= new int[] {1,2,3,4,5,6};
+            //数组类型Array
+            Console.WriteLine(intArray.GetType().FullName);
+            foreach (var item in collection)
+            {
+                //
             }
         }
     }
