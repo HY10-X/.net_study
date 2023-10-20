@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormHelloWorld", "MyFirstWinForm\WinFormHelloWorld.csproj", "{F7335037-01BF-4FBB-8CB9-03AE2EADAC1D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHelloWorld", "ConsoleHelloWorld\ConsoleHelloWorld.csproj", "{A304FEF7-D505-4B6E-8D80-9B9DA95B2A4D}"
@@ -44,6 +46,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversationExample", "ConversationExample\ConversationExample.csproj", "{CE9BD1DB-23F8-4C92-8C8A-77475B318D61}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionExamp", "ExpressionExamp\ExpressionExamp.csproj", "{3AC3C0D5-9E78-4928-86CF-457332E9FE70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatementTestBreak", "StatementTestBreak\StatementTestBreak.csproj", "{43B62DFC-D974-4B47-9F2C-723D1DB180A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -275,8 +279,23 @@ Global
 		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|Mixed Platforms.Build.0 = Release|x86
 		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|x86.ActiveCfg = Release|x86
 		{3AC3C0D5-9E78-4928-86CF-457332E9FE70}.Release|x86.Build.0 = Release|x86
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Debug|x86.Build.0 = Debug|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Release|x86.ActiveCfg = Release|Any CPU
+		{43B62DFC-D974-4B47-9F2C-723D1DB180A0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0CF2E0-B5DF-4824-A0D3-3ACF47C82720}
 	EndGlobalSection
 EndGlobal
