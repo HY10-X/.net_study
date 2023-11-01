@@ -1,4 +1,8 @@
 ﻿using System.Collections.Generic;
+using System.Collections;
+using System;
+using System.Net.Http.Headers;
+
 namespace StatementTestBreak
 {
     //testgitnew
@@ -81,18 +85,51 @@ namespace StatementTestBreak
                     {
                         break;
                     }
-                    
+
                 }
 
             }
             //foreach,集合遍历循环
-            int[] intArray= new int[] {1,2,3,4,5,6};
+            int[] intArray = new int[] { 1, 2, 3, 4, 5, 6 };
             //数组类型Array
             Console.WriteLine(intArray.GetType().FullName);
-            foreach (var item in collection)
+
+            //迭代器,指到哪访问哪个元素
+            IEnumerator enumerator= intArray.GetEnumerator();
+            while (enumerator.MoveNext())
+                //MoveNext将游标移向下一个
             {
-                //
+                Console.WriteLine(enumerator.Current);
             }
+            //foreach用于枚举集合中的每一个元素
+            foreach (int i in intArray)
+            {
+                Console.WriteLine(i);
+            }
+            //迭代器
+            List<int> Intlist = new List<int>() { 1, 2, 3, 4, 5, 6 };
+            IEnumerator enumerator1 = Intlist.GetEnumerator();
+            while (enumerator1.MoveNext())
+            {
+                Console.WriteLine(enumerator1.Current);
+            }
+            //foreach最佳应用场合是在遍历集合元素中
+            foreach (var current in Intlist)
+            {
+                Console.WriteLine(current);
+            }
+            //跳转语句,尽早return原则
+
+        }
+        //跳转语句,尽早return原则
+        static void Greeting(string Name)
+        {
+            if (!string.IsNullOrEmpty(Name))
+            {
+                //如果是空就返回
+                return;
+            }
+            Console.WriteLine("Hello,{0}",Name);
         }
     }
 }

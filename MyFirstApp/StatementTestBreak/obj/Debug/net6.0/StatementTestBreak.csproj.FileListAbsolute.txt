@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\bin\Debug\net6.0\StatementTestBreak.exe
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\bin\Debug\net6.0\StatementTestBreak.deps.json
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\bin\Debug\net6.0\StatementTestBreak.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\bin\Debug\net6.0\StatementTestBreak.dll
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\bin\Debug\net6.0\StatementTestBreak.pdb
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\StatementTestBreak.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\StatementTestBreak.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\StatementTestBreak.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\StatementTestBreak.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\StatementTestBreak.dll
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\refint\StatementTestBreak.dll
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\StatementTestBreak.pdb
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\StatementTestBreak.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\StatementTestBreak\obj\Debug\net6.0\ref\StatementTestBreak.dll
