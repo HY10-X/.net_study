@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\bin\Debug\net6.0\DataMemberExample.exe
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\bin\Debug\net6.0\DataMemberExample.deps.json
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\bin\Debug\net6.0\DataMemberExample.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\bin\Debug\net6.0\DataMemberExample.dll
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\bin\Debug\net6.0\DataMemberExample.pdb
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\DataMemberExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\DataMemberExample.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\DataMemberExample.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\DataMemberExample.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\DataMemberExample.dll
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\refint\DataMemberExample.dll
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\DataMemberExample.pdb
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\DataMemberExample.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\DataMemberExample\obj\Debug\net6.0\ref\DataMemberExample.dll
