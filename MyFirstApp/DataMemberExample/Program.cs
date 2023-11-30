@@ -39,6 +39,17 @@ namespace DataMemberExample
             Console.WriteLine(Brush.DefaultColor.Red);
             Console.WriteLine(Brush.DefaultColor.Blue);
             Console.WriteLine(Brush.DefaultColor.Green);
+            //Brush.DefaultColor = new Color();静态只读字段无法更改
+
+            //private字段
+            Student stu1 = new Student();
+            stu1.SetHeight(100);
+            Student stu2 = new Student();
+            stu2.SetHeight(100);
+            Student stu3 = new Student();
+            stu3.SetHeight(100);
+            int avgHeight = (stu1.GetHeight()+stu2.GetHeight()+stu3.GetHeight();
+            Console.WriteLine(avgHeight);
 
         }
         struct Color
@@ -55,10 +66,10 @@ namespace DataMemberExample
                 Green = 0,
                 Blue = 0
             };
-            //静态构造函数
+            //静态实例构造函数
             static Brush()
             {
-
+                Brush.DefaultColor=new Color() { Red=0,Green=0, Blue=0 };
             }
         }
         public class Student
@@ -69,15 +80,40 @@ namespace DataMemberExample
             public int Score;
             //用静态字段表示状态方法
             //静态字段初始化时机是在运行环境加载阶段
+            //public static int Amount;
 
             //只读readonly字段
             //只读字段可以进行初始化但是不能进行赋值
             public readonly int ID;
             //在数据类型被运行环境加载时初始化,只执行一次
+
+
+            //private属性,身高,使用关键字保护字段不受非法值(溢出之类)污染
+            //不符合设定值抛出异常,使用GetHeight来获取height,使用SetHeight来初始化height
+            private int Height;
+            public int GetHeight()
+            {
+                return this.Height;
+            }
+            public void SetHeight(int value)
+            {
+                if (value >= 100 && value <= 200)
+                {
+                    this.Height = value;
+                }
+                else
+                {
+                    throw new Exception("Age value is error");
+                }
+            }
+
             public Student(int id)
             {
                 this.ID=id;
             }
+
+            //
+
 
             public static int AverageAge;
             public static int AverageScore;
