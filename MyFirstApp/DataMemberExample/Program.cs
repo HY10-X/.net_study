@@ -78,14 +78,27 @@ namespace DataMemberExample
             private int age;
             //封装字段
             public int Age {
-                get => age; 
-                set => age = value; 
+                get { return age; }
+                set { age = value;
+                    //设定age时自动给canWork赋值,根据访问情况决定是访问时实时计算还是设定时计算
+                    this.canWorkCalculator();
+                }
             }
 
             private bool canWork;
             public bool CanWork { 
                 get => canWork; 
-                set => canWork = value; 
+               //改为只读属性
+            }
+            private void canWorkCalculator() {
+                if (this.age >= 18)
+                {
+                    this.canWork = true;
+                }
+                else
+                {
+                     this.canWork= false;
+                }
             }
 
         }
