@@ -48,7 +48,7 @@ namespace DataMemberExample
             stu2.SetHeight(100);
             Student stu3 = new Student();
             stu3.SetHeight(100);
-            int avgHeight = (stu1.GetHeight()+stu2.GetHeight()+stu3.GetHeight();
+            int avgHeight = (stu1.GetHeight()+stu2.GetHeight()+stu3.GetHeight());
             Console.WriteLine(avgHeight);
 
         }
@@ -72,6 +72,23 @@ namespace DataMemberExample
                 Brush.DefaultColor=new Color() { Red=0,Green=0, Blue=0 };
             }
         }
+        //动态计算值的属性
+        public class people
+        {
+            private int age;
+            //封装字段
+            public int Age {
+                get => age; 
+                set => age = value; 
+            }
+
+            private bool canWork;
+            public bool CanWork { 
+                get => canWork; 
+                set => canWork = value; 
+            }
+
+        }
         public class Student
         {
             //实例字段
@@ -88,7 +105,7 @@ namespace DataMemberExample
             //在数据类型被运行环境加载时初始化,只执行一次
 
 
-            //private属性,身高,使用关键字保护字段不受非法值(溢出之类)污染
+            //private属性只能在public class student中使用,身高,使用关键字保护字段不受非法值(溢出之类)污染
             //不符合设定值抛出异常,使用GetHeight来获取height,使用SetHeight来初始化height
             private int Height;
             public int GetHeight()
@@ -112,7 +129,7 @@ namespace DataMemberExample
                 this.ID=id;
             }
 
-            //
+            //getter与setter 
 
 
             public static int AverageAge;
