@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\bin\Debug\net6.0\IndexerExample.exe
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\bin\Debug\net6.0\IndexerExample.deps.json
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\bin\Debug\net6.0\IndexerExample.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\bin\Debug\net6.0\IndexerExample.dll
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\bin\Debug\net6.0\IndexerExample.pdb
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\IndexerExample.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\IndexerExample.dll
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\refint\IndexerExample.dll
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\IndexerExample.pdb
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\IndexerExample.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\IndexerExample\obj\Debug\net6.0\ref\IndexerExample.dll
