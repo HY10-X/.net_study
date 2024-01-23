@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\OutParametersExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\OutParametersExample.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\OutParametersExample.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\OutParametersExample.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\bin\Debug\net6.0\OutParametersExample.exe
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\bin\Debug\net6.0\OutParametersExample.deps.json
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\bin\Debug\net6.0\OutParametersExample.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\bin\Debug\net6.0\OutParametersExample.dll
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\bin\Debug\net6.0\OutParametersExample.pdb
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\OutParametersExample.dll
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\refint\OutParametersExample.dll
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\OutParametersExample.pdb
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\OutParametersExample.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\OutParametersExample\obj\Debug\net6.0\ref\OutParametersExample.dll

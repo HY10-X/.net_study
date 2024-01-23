@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\bin\Debug\net6.0\RefSomsideEffectExample.exe
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\bin\Debug\net6.0\RefSomsideEffectExample.deps.json
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\bin\Debug\net6.0\RefSomsideEffectExample.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\bin\Debug\net6.0\RefSomsideEffectExample.dll
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\bin\Debug\net6.0\RefSomsideEffectExample.pdb
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\RefSomsideEffectExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\RefSomsideEffectExample.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\RefSomsideEffectExample.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\RefSomsideEffectExample.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\RefSomsideEffectExample.dll
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\refint\RefSomsideEffectExample.dll
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\RefSomsideEffectExample.pdb
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\RefSomsideEffectExample.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\RefSomsideEffectExample\obj\Debug\net6.0\ref\RefSomsideEffectExample.dll
