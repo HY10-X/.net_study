@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\bin\Debug\net6.0\ParametersExample.exe
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\bin\Debug\net6.0\ParametersExample.deps.json
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\bin\Debug\net6.0\ParametersExample.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\bin\Debug\net6.0\ParametersExample.dll
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\bin\Debug\net6.0\ParametersExample.pdb
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ParametersExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ParametersExample.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ParametersExample.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ParametersExample.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ParametersExample.dll
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\refint\ParametersExample.dll
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ParametersExample.pdb
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ParametersExample.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\ParametersExample\obj\Debug\net6.0\ref\ParametersExample.dll
