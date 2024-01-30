@@ -29,9 +29,10 @@ namespace ParametersExample
             double x = 3.14159;
             double y = x.Round(2);
             Console.WriteLine(y);
-
-            //
-
+            //LinQ
+            List<int> list = new List<int>() { 11,12,13,14 };
+            //All是一个拓展方法,隶属于Enumerable静态类,等效下面的于AllGreaterThanTen()方法
+            bool LinqResult = list.All(x => x > 10);
         }
         /// <summary>
         /// 数组类型参数,只需要在参数前加上params关键字即可
@@ -65,6 +66,19 @@ namespace ParametersExample
         static void PrintInfoDefault(string name="张三",int age=9)
         {
             Console.WriteLine("Hello {0},you are {1}", name, age);
+        }
+
+        ///
+        static bool AllGreaterThanTen(List<int> IntList)
+        {
+            foreach (int i in IntList)
+            {
+                if (i < 10)
+                {
+                    return false;
+                }
+            }
+            return true;
         }
      
     }
