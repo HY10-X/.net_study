@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\bin\Debug\net6.0\DelegateExample_point.exe
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\bin\Debug\net6.0\DelegateExample_point.deps.json
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\bin\Debug\net6.0\DelegateExample_point.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\bin\Debug\net6.0\DelegateExample_point.dll
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\bin\Debug\net6.0\DelegateExample_point.pdb
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\DelegateExample_point.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\DelegateExample_point.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\DelegateExample_point.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\DelegateExample_point.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\DelegateExample_point.dll
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\refint\DelegateExample_point.dll
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\DelegateExample_point.pdb
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\DelegateExample_point.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\DelegateExample_point\obj\Debug\net6.0\ref\DelegateExample_point.dll
