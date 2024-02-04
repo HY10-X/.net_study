@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\MulticastDelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\MulticastDelegateExample.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\MulticastDelegateExample.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\MulticastDelegateExample.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\bin\Debug\net6.0\MulticastDelegateExample.exe
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\bin\Debug\net6.0\MulticastDelegateExample.deps.json
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\bin\Debug\net6.0\MulticastDelegateExample.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\bin\Debug\net6.0\MulticastDelegateExample.dll
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\bin\Debug\net6.0\MulticastDelegateExample.pdb
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\MulticastDelegateExample.dll
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\refint\MulticastDelegateExample.dll
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\MulticastDelegateExample.pdb
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\MulticastDelegateExample.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\MulticastDelegateExample\obj\Debug\net6.0\ref\MulticastDelegateExample.dll
