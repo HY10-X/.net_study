@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametersExample", "Parame
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateExample_point", "DelegateExample_point\DelegateExample_point.csproj", "{AC5A7F4A-4D62-4897-B2DB-BDD0ED55D51E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegateExample", "MulticastDelegateExample\MulticastDelegateExample.csproj", "{DA880644-1A04-4F0F-83F1-0188B7450696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MulticastDelegateExample", "MulticastDelegateExample\MulticastDelegateExample.csproj", "{DA880644-1A04-4F0F-83F1-0188B7450696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventExample", "EventExample\EventExample.csproj", "{22A5A21C-2162-42EE-80E7-009981DDF157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -417,6 +419,18 @@ Global
 		{DA880644-1A04-4F0F-83F1-0188B7450696}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{DA880644-1A04-4F0F-83F1-0188B7450696}.Release|x86.ActiveCfg = Release|Any CPU
 		{DA880644-1A04-4F0F-83F1-0188B7450696}.Release|x86.Build.0 = Release|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Debug|x86.Build.0 = Debug|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Release|x86.ActiveCfg = Release|Any CPU
+		{22A5A21C-2162-42EE-80E7-009981DDF157}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

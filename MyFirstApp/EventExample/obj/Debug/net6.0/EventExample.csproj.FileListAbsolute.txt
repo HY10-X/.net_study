@@ -1,0 +1,14 @@
+E:\c#学习\.net_study\MyFirstApp\EventExample\bin\Debug\net6.0\EventExample.exe
+E:\c#学习\.net_study\MyFirstApp\EventExample\bin\Debug\net6.0\EventExample.deps.json
+E:\c#学习\.net_study\MyFirstApp\EventExample\bin\Debug\net6.0\EventExample.runtimeconfig.json
+E:\c#学习\.net_study\MyFirstApp\EventExample\bin\Debug\net6.0\EventExample.dll
+E:\c#学习\.net_study\MyFirstApp\EventExample\bin\Debug\net6.0\EventExample.pdb
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\EventExample.AssemblyInfoInputs.cache
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\EventExample.AssemblyInfo.cs
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\EventExample.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\EventExample.dll
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\refint\EventExample.dll
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\EventExample.pdb
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\EventExample.genruntimeconfig.cache
+E:\c#学习\.net_study\MyFirstApp\EventExample\obj\Debug\net6.0\ref\EventExample.dll
