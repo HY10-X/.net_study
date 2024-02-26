@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MulticastDelegateExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f75b36692b56d3b54048690159de540d53e7fb1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MulticastDelegateExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MulticastDelegateExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

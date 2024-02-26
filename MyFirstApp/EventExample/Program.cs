@@ -18,7 +18,8 @@ namespace EventExample
             Boy boy = new Boy();
             //4.事件的订阅,timer 的Elapsed事件订阅了boy对象的事件处理器,+=后跟事件响应者的事件处理器,Interval达到间隔1000ms时发生。
             timer.Elapsed+=boy.Action;
-
+            //一个事件同时有两个事件处理器的操作
+            timer.Elapsed += girl.Action;
             timer.Start();
 
             Console.ReadLine();
@@ -36,6 +37,14 @@ namespace EventExample
             internal void Action(object? sender, ElapsedEventArgs e)
             {
                 Console.WriteLine("Jump!");
+            }
+        }
+        class girl
+        {
+            internal static void Action(object? sender, ElapsedEventArgs e)
+            {
+                Console.WriteLine("Sing!");
+
             }
         }
     }
