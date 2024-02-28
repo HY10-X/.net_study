@@ -1,0 +1,9 @@
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\bin\Debug\WinFormEventsExample2.exe.config
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\bin\Debug\WinFormEventsExample2.exe
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\bin\Debug\WinFormEventsExample2.pdb
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\obj\Debug\WinFormEventsExample2.csproj.AssemblyReference.cache
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\obj\Debug\WinFormEventsExample2.Properties.Resources.resources
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\obj\Debug\WinFormEventsExample2.csproj.GenerateResource.cache
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\obj\Debug\WinFormEventsExample2.csproj.CoreCompileInputs.cache
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\obj\Debug\WinFormEventsExample2.exe
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample2\obj\Debug\WinFormEventsExample2.pdb
