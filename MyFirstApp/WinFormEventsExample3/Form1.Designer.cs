@@ -1,6 +1,6 @@
 ﻿namespace WinFormEventsExample3
 {
-    partial class MyForm
+    partial class MyForm1
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -47,7 +47,9 @@
             this.MyButton.TabIndex = 1;
             this.MyButton.Text = "Say hello";
             this.MyButton.UseVisualStyleBackColor = true;
-            this.MyButton.Click += new System.EventHandler(this.button1_Click);
+            //new一个委托接收click事件,有两种写法
+            //this.MyButton.Click += new System.EventHandler(this.button1_Click);
+            this.MyButton.Click += this.button1_Click;
             // 
             // MyForm
             // 

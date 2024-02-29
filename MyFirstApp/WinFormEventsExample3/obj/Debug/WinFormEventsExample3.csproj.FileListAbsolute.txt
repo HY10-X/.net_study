@@ -2,9 +2,9 @@ E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\bin\Debug\WinFormEventsE
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\bin\Debug\WinFormEventsExample3.exe
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\bin\Debug\WinFormEventsExample3.pdb
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.csproj.AssemblyReference.cache
-E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.Form1.resources
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.Properties.Resources.resources
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.csproj.GenerateResource.cache
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.csproj.CoreCompileInputs.cache
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.exe
 E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.pdb
+E:\c#学习\.net_study\MyFirstApp\WinFormEventsExample3\obj\Debug\WinFormEventsExample3.MyForm1.resources

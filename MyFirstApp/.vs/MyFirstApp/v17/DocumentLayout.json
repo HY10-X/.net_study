@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\c#\u5B66\u4E60\\.net_study\\MyFirstApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF92BA9-09FA-45B4-BD85-1EAB61B7CB3D}|WinFormEventsExample3\\WinFormEventsExample3.csproj|e:\\c#\u5B66\u4E60\\.net_study\\myfirstapp\\winformeventsexample3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FF92BA9-09FA-45B4-BD85-1EAB61B7CB3D}|WinFormEventsExample3\\WinFormEventsExample3.csproj|solutionrelative:winformeventsexample3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF92BA9-09FA-45B4-BD85-1EAB61B7CB3D}|WinFormEventsExample3\\WinFormEventsExample3.csproj|e:\\c#\u5B66\u4E60\\.net_study\\myfirstapp\\winformeventsexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FF92BA9-09FA-45B4-BD85-1EAB61B7CB3D}|WinFormEventsExample3\\WinFormEventsExample3.csproj|solutionrelative:winformeventsexample3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FF92BA9-09FA-45B4-BD85-1EAB61B7CB3D}|WinFormEventsExample3\\WinFormEventsExample3.csproj|e:\\c#\u5B66\u4E60\\.net_study\\myfirstapp\\winformeventsexample3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FF92BA9-09FA-45B4-BD85-1EAB61B7CB3D}|WinFormEventsExample3\\WinFormEventsExample3.csproj|solutionrelative:winformeventsexample3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,44 +30,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\c#\u5B66\u4E60\\.net_study\\MyFirstApp\\WinFormEventsExample3\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormEventsExample3\\Form1.cs",
-              "ToolTip": "E:\\c#\u5B66\u4E60\\.net_study\\MyFirstApp\\WinFormEventsExample3\\Form1.cs",
-              "RelativeToolTip": "WinFormEventsExample3\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T08:33:57.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "E:\\c#\u5B66\u4E60\\.net_study\\MyFirstApp\\WinFormEventsExample3\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormEventsExample3\\Form1.cs",
-              "ToolTip": "E:\\c#\u5B66\u4E60\\.net_study\\MyFirstApp\\WinFormEventsExample3\\Form1.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "WinFormEventsExample3\\Form1.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T08:24:46.43Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\c#\u5B66\u4E60\\.net_study\\MyFirstApp\\WinFormEventsExample3\\Program.cs",
-              "RelativeDocumentMoniker": "WinFormEventsExample3\\Program.cs",
-              "ToolTip": "E:\\c#\u5B66\u4E60\\.net_study\\MyFirstApp\\WinFormEventsExample3\\Program.cs",
-              "RelativeToolTip": "WinFormEventsExample3\\Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwCMAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T07:34:58.672Z",
-              "EditorCaption": ""
             }
           ]
         }
